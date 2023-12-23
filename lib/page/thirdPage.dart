@@ -4,7 +4,7 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:test_suitmedia/api_service/userService.dart';
-import 'package:test_suitmedia/colors.dart';
+import 'package:test_suitmedia/color/colors.dart';
 import 'package:test_suitmedia/model/userModel.dart';
 
 

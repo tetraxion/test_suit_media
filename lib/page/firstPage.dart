@@ -1,7 +1,7 @@
 // ignore_for_file: file_names
 
 import 'package:flutter/material.dart';
-import 'package:test_suitmedia/colors.dart';
+import 'package:test_suitmedia/color/colors.dart';
 import 'package:test_suitmedia/controller/firstPage_controller.dart';
 import 'package:test_suitmedia/model/userModel.dart';
 import 'secondPage.dart';

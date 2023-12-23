@@ -1,7 +1,7 @@
 // ignore_for_file: file_names
 
 import 'package:flutter/material.dart';
-import 'package:test_suitmedia/colors.dart';
+import 'package:test_suitmedia/color/colors.dart';
 import 'thirdPage.dart';
 
 class SecondPage extends StatefulWidget {
